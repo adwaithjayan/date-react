@@ -1,0 +1,36 @@
+{
+  "name": "date-react",
+  "version": "1.0.0",
+  "description": "Flexible and customizable date/time formatting utility for JavaScript/Typescript and React",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "module": "dist/index.mjs",
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "scripts": {
+    "build": "tsup src/index.ts --dts --format esm,cjs --clean"
+  },
+  "keywords": [
+    "react",
+    "date",
+    "format",
+    "formatter",
+    "javascript",
+    "typescript"
+  ],
+  "author": "aj-boss",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^24.0.15",
+    "tsup": "^8.5.0",
+    "typescript": "^5.8.3"
+  }
+}
