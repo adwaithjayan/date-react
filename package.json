@@ -1,6 +1,6 @@
 {
-  "name": "date-react",
-  "version": "1.0.0",
+  "name": "date-react-formatter",
+  "version": "1.0.1",
   "description": "Flexible and customizable date/time formatting utility for JavaScript/Typescript and React",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
