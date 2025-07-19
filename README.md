@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/react-date-format">
-    <img src="https://img.shields.io/npm/v/react-date-format?color=blue" />
+  <a href="https://www.npmjs.com/package/date-react">
+    <img src="https://img.shields.io/npm/v/date-react?color=blue" />
   </a>
-  <a href="https://github.com/yourname/react-date-format">
-    <img src="https://img.shields.io/github/stars/yourname/react-date-format?style=social" />
+  <a href="https://github.com/adwaithjayan/date-react">
+    <img src="https://img.shields.io/github/stars/adwaithjayan/date-react?style=social" />
   </a>
   <a href="./LICENSE">
-    <img src="https://img.shields.io/npm/l/react-date-format" />
+    <img src="https://img.shields.io/npm/l/date-react" />
   </a>
 </p>
 

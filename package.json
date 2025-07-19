@@ -32,5 +32,10 @@
     "@types/node": "^24.0.15",
     "tsup": "^8.5.0",
     "typescript": "^5.8.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adwaithjayan/date-react"
+  },
+  "homepage": "https://github.com/adwaithjayan/date-react#readme"
 }
